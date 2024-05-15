@@ -136,7 +136,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             borderRadius: BorderRadius.circular(15),
                             // deixa a borda aredondada
                             borderSide:
-                                const BorderSide(color: Colors.purpleAccent),
+                                const BorderSide(color: Colors.yellow),
                             // para estilizar a borda
                           ),
                           focusedBorder: OutlineInputBorder(
@@ -144,7 +144,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               borderRadius: BorderRadius.circular(15),
                               // deixa a borda aredondada
                               borderSide:
-                                  const BorderSide(color: Colors.purple)),
+                                  const BorderSide(color: Colors.yellow)),
                           // para estilizar a borda
                         ),
                       ),
